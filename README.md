@@ -8,8 +8,10 @@
 
 3.some Images that for "Exit","Refresh","Forward","Backward","logo" and  "submit"
 
-4.A text file you may insert your commands.i mean how to rply your bot
+4.A text file you may insert your commands,I mean how to reply your bot
+
+# VERSION-1.0.0
 
 # NOTE: 
-*Dont leave Spaces (Spaces are not allowed)while texting Message
+*Dont leave Spaces (Spaces are not allowed)while texting Message with bot
 `
