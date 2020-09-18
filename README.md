@@ -4,10 +4,10 @@
 
  *Requirements:
 
- 1. tkinter module.
- 2.python3.
- 3.some images that for "Exit","Refresh","Forward","Backward","logo" and  "submit".
- 4.A text file you may insert your commands.i mean how to rply your bot.
+ tkinter module.
+ python3.
+ some images that for "Exit","Refresh","Forward","Backward","logo" and  "submit".
+ A text file you may insert your commands.i mean how to rply your bot.
 
 
 
