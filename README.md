@@ -1,6 +1,10 @@
-
- Hi...I am varshith.</n>
- It is a chatbot purely written in python(3.5).</n>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+ Hi...I am varshith
+ It is a chatbot purely written in python(3.5)
 
  *Requirements:
 
@@ -13,3 +17,4 @@
 
   NOTE: 
 *Dont leave Spaces (Spaces are not allowed)while texting Message
+```
